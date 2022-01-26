@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/Desktop/AndroidTemplates_Kotlin/BottomNavigationView/app/src/main/res/layout/activity_main.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/AndroidTemplates_Kotlin/BottomNavigationView/app/src/main/res/layout/fragment_first.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/AndroidTemplates_Kotlin/BottomNavigationView/app/src/main/res/menu/bottom_nav.xml" value="0.29322916666666665" />
         <entry key="..\:/Users/ASUS/Desktop/BottomNavigationView/app/src/main/res/layout/activity_main.xml" value="0.28958333333333336" />
         <entry key="..\:/Users/ASUS/Desktop/BottomNavigationView/app/src/main/res/layout/fragment_first.xml" value="0.25" />
         <entry key="..\:/Users/ASUS/Desktop/BottomNavigationView/app/src/main/res/layout/fragment_second.xml" value="0.28958333333333336" />
