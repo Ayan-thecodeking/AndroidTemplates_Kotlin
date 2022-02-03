@@ -1,3 +1,3 @@
 # AndroidTemplates_Kotlins
-new one
+new ones
 
