@@ -12,6 +12,10 @@
         android:icon="@drawable/ic_perm_" />
     <item
         android:id="@+id/thirdFragment"
-        android:title="Chat"
-        android:icon="@drawable/ic_chat" />
+        android:title="Wishlis"
+        android:icon="@drawable/ic_wishlist" />
+    <item
+        android:id="@+id/fourthFragment"
+        android:title="My Learnings"
+        android:icon="@drawable/ic_learn" />
 </menu>
